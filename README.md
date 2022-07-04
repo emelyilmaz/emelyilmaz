@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Java EE(Spring), React.js**
 
-- 👨‍💻 All of my projects are available at [https://github.com/emelyilmaz?tab=repositories](https://github.com/emelyilmaz?tab=repositories)
-
 - 📫You can reach me at this  **emelcesurr@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
